@@ -17,6 +17,8 @@ namespace DegerveReferansTipler
             sayi1 = sayi2;
             Console.WriteLine(sayi1);
 
+
+
             
             Console.ReadLine();
         }
